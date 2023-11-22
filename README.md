@@ -66,7 +66,7 @@ If you have any errors or problems please first check:
 - [Frequently Asked Questions](https://dx.github.io/dxdiscord/faq)
 - [Github Issues](https://github.com/dx/dxdiscord/issues?q=)
 
-If neither of those solve your problem [Open a ticket](https://github.com/dx/dxdiscord/issues/new/choose) or message me on [Discord](https://discord.gg/RgbBztr5XJ) (My name is Tony#1275 on discord)
+If neither of those solve your problem [Open a ticket](https://github.com/dx/dxdiscord/issues/new/choose) or message me on [Discord](https://discord.gg/RgbBztr5XJ) (My name is mr_dx#0 on discord)
 
 
 ## Donate
